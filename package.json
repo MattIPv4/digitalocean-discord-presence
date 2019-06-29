@@ -1,0 +1,15 @@
+{
+  "name": "digitalocean-discord-presence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "github:discordjs/RPC"
+  }
+}
